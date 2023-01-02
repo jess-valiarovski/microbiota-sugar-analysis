@@ -3,7 +3,7 @@ Simple sugars are a part of a healthy diet in humans and microorganisms assist i
 QIIME2 was used as a bioinformatics tool to analyze for microbial diversity metrics. R Studio was used to visualize and compute correlations between dietary patterns and microbial composition. It was concluded that there were no significant changes in alpha diversity or Prevotella count when sugar intake was increased. Based on these results, it can be suggested that Prevotella does not use simple sugars as a nutrient to maintain and expand its genus composition. 
 
 
-Metadata Data Collection (https://doi.org/10.1126/science.1208344)
+Metadata Data Collection from Wu GD, et al. Linking long-term dietary patterns with gut microbial enterotypes. Science. 2011. 334: 105-108. (https://doi.org/10.1126/science.1208344)
 Stool samples were collected from 97 healthy individuals for cross-sectional analysis. For each individual, short-term diet information was documented from the “Recall” questionnaire 
 and long-term diet information from the food frequency questionnaire (FRQ).
 
