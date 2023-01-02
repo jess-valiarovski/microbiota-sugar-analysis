@@ -1,4 +1,4 @@
-#Simple Sugars and Microbiota Changes: Computational Analysis of a Cross-Sectional Dietary Study
+Simple Sugars and Microbiota Changes: Computational Analysis of a Cross-Sectional Dietary Study
 Abstract
 
 Simple sugars are a part of a healthy diet in humans and microorganisms assist in its metabolism. This study will examine through a computational analysis how changes in simple sugar consumption affect microbial composition in a cross-sectional nutritional survey of 98 healthy individuals. It is hypothesized that a diet high in simple sugars will decrease the alpha diversity of the gut microbiome and increase the genus count of Prevotella. 
