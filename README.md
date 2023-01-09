@@ -10,7 +10,7 @@ and long-term diet information from the food frequency questionnaire (FRQ).
 QIIME2 Pipeline Analysis (https://qiime2.org)
 Bacterial 16S ribosomal DNA (rDNA) extracted from stool samples were sequenced either using Roche 454 sequencing or shotgun metagenomics.
 16S rDNA samples were truncated at 2000 reads for improved representation of the microbial composition for each sample. 
-Closed reference filtering using the GreenGenes database was used to classify truncated samples based on OTU taxonomy. 
+Closed reference filtering using the GreenGenes database was used to classify truncated samples based on OTU (operational taxonomic unit). 
 A filtered 16S rDNA OTU count and a corresponding taxonomy were the resulting QIIME artifacts (i.e. files only readable on QIIME). 
 The filtered OTU table was processed through phylogeny and diversity metrics in the terminal to produce a tab-separated values file. 
 Shannon diversity, OTU count table, and taxonomy were exported in the form of a tsv file and uploaded onto R Studio for further analysis.
