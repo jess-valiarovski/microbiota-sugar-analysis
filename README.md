@@ -1,5 +1,3 @@
-#Miguel Aguinaga, Ethan Chase, Olivia Yesker were direct collaborators. Joleen Khey served as a mentor in this project.
-
 Simple sugars are a part of a healthy diet in humans and microorganisms assist in its metabolism. This study will examine through a computational analysis how changes in simple sugar consumption affect microbial composition in a cross-sectional nutritional survey of 98 healthy individuals. It is hypothesized that a diet high in simple sugars will decrease the alpha diversity of the gut microbiome and increase the genus count of Prevotella. 
 
 QIIME2 was used as a bioinformatics tool to analyze for microbial diversity metrics. R Studio was used to visualize and compute correlations between dietary patterns and microbial composition. It was concluded that there were no significant changes in alpha diversity or Prevotella count when sugar intake was increased. Based on these results, it can be suggested that Prevotella does not use simple sugars as a nutrient to maintain and expand its genus composition. 
@@ -26,3 +24,5 @@ The Shannon index takes into account both richness and evenness, the number of u
 To confirm whether this increase is significant, an ANOVA test was used to compare within the three sugars whether there was a significant difference between the mean alpha diversities and grams of sugar consumed.
 
 
+ACKNOWLEDGEMENTS:
+Miguel Aguinaga, Ethan Chase, Olivia Yesker were direct collaborators. Joleen Khey served as a mentor in this project.
