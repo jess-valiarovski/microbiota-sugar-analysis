@@ -8,15 +8,7 @@
 🎓 **Mentor:** Joleen Khey  
 
 ---
-### 🚀 **Project Title:**  
-**Statistical Analysis of Critical Minerals Demand in Clean Energy Industries**  
 
-📅 **Timeframe:** September 2024 - December 2024  
-📍 **Author:** **Jess Valiarovski**  
-📚 **Course:** **Applied Biostatistics BIOL 3272**  
-🎓 **Acknowledgements:** Thank you, **Yaniv Brandvain** and **Abigail Meyer**!  
-
----
 ## 🚀 **Project Overview**  
 This study examines how **changes in simple sugar consumption** affect microbial composition in the gut microbiome using **computational and statistical analysis**.  
 
