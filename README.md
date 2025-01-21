@@ -1,5 +1,5 @@
 ### 🚀 **Project Title:**  
-🦠🧬 **Impact of Simple Sugar Intake on Gut Microbiome Composition** 
+🧬 **Impact of Simple Sugar Intake on Gut Microbiome Composition** 
 
 📅 **Timeframe:** September 2021 - December 2021  
 📍 **Author:** **Jess Valiarovski**  
