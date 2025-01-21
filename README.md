@@ -5,7 +5,7 @@
 📍 **Author:** **Jess Valiarovski**  
 📚 **Course:** **Foundations of Biology Laboratory: Computational Microbiology Research**  
 🎓 **Collaborators:** Miguel Aguinaga, Ethan Chase, Olivia Yesker  
-🎓 **Mentor:** Joleen Khey  
+🎓 **Instructor:** Joleen Khey  
 
 ---
 
