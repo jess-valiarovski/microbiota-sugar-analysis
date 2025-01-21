@@ -61,13 +61,13 @@ This study examines how **changes in simple sugar consumption** affect microbial
 ## 📌 **Key Findings**  
 
 ### 🛠 **Statistical Results**  
-📌 **No significant correlation** between **simple sugar intake** and **gut microbial alpha diversity**.  
-📌 **No significant change in Prevotella count** when sugar intake increased.  
-📌 **Contrary to hypothesis**, **Prevotella does not appear to metabolize simple sugars** to maintain populations in the gut.  
+- **No significant correlation** between **simple sugar intake** and **gut microbial alpha diversity**.  
+- **No significant change in Prevotella count** when sugar intake increased.  
+- **Contrary to hypothesis**, **Prevotella does not appear to metabolize simple sugars** to maintain populations in the gut.  
 
 ### **📈 Visualization Highlights**  
-📌 **Scatter plots** showed no linear trend between sugar intake and microbial diversity.  
-📌 **ANOVA results** confirmed no significant differences in Shannon Index values across sugar types.  
+- **Scatter plots** showed no linear trend between sugar intake and microbial diversity.  
+- **ANOVA results** confirmed no significant differences in Shannon Index values across sugar types.  
 
 ---
 
