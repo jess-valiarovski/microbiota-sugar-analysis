@@ -71,7 +71,7 @@ This study examines how **changes in simple sugar consumption** affect microbial
 
 ---
 
-## 🛠️ **Technical Skills Demonstrated**  
+🛠️ **Technical Skills Demonstrated**  
 
 ✅ **Bioinformatics Analysis:** `QIIME2`, 16S rDNA sequencing  
 ✅ **Data Wrangling & Cleaning:** `pandas`, `numpy`  
