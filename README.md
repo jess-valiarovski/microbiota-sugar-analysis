@@ -78,6 +78,7 @@ This study examines how **changes in simple sugar consumption** affect microbial
 ✅ **Statistical Modeling:** Linear regression, ANOVA  
 ✅ **Data Visualization:** `ggplot2`, scatter plots  
 ✅ **Reproducible Research:** Pipeline from raw genetic data to hypothesis testing
+
 ---
 
 ## 📎 **References**  
