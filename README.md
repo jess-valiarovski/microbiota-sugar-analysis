@@ -79,7 +79,8 @@ This study examines how **changes in simple sugar consumption** affect microbial
 ✅ **Reproducible Research:** Pipeline from raw genetic data to hypothesis testing
 
 ---
-
+##  **How to view poster**  
+https://github.com/jess-valiarovski/microbiota-sugar-analysis/blob/main/Group_12_Poster.pdf
 ## 📎 **References**  
 Wu GD, et al. *Linking long-term dietary patterns with gut microbial enterotypes*. **Science**, 2011.  
 📄 **DOI:** [10.1126/science.1208344](https://doi.org/10.1126/science.1208344)  
