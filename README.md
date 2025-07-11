@@ -2,9 +2,8 @@
 🧬 **Impact of Simple Sugar Intake on Gut Microbiome Composition** 
 
 📅 **Timeframe:** September 2021 - December 2021  
-📍 **Author:** **Jess Valiarovski**  
+📍 **Authors:** **Jess Valiarovski, Miguel Aguinaga, Ethan Chase, Olivia Yesker**  
 📚 **Course:** **Foundations of Biology Laboratory: Computational Microbiology Research**  
-🎓 **Collaborators:** Miguel Aguinaga, Ethan Chase, Olivia Yesker  
 🎓 **Instructor:** Joleen Khey  
 
 ---
